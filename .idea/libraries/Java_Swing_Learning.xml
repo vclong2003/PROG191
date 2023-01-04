@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Java_Swing_Learning">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Java_Swing_Learning.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
